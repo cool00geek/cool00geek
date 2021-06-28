@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm [Vinay](cool00geek.github.io)
 
-I'm a current computer science student, Linux einthusiast, and interested in security!
-
 ### More About Me
 
 [<img align="left" alt="Website" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="22" height="22">](https://cool00geek.github.io)
